@@ -20,6 +20,7 @@ const character='f';
 const timeToRepeat=10;
 let myString='';
 for(let i=0;i<=timeToRepeat;i++){
+  
   myString= myString.concat(character);
 }
 
