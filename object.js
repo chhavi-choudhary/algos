@@ -11,7 +11,6 @@ const person3 = {
   ageRange: "69-73"
 };
 
-
 function suggestMusic(person) {
   if (person.ageRange === "25-35") {
     console.log("We think you'll like Daft Punk you crazy millenial.");
@@ -25,6 +24,28 @@ function suggestMusic(person) {
     );
   }
 }
+
+const dog = {
+  name: "dog",
+  speak() {
+    console.log("woof woof");
+  }
+};
+dog.speak();
+
+const cat={
+  name:"catty",
+  nickname:"cutieee",
+  age:3,
+  dance(parameter1, parameter2){
+    console.log("dada dudu dda",parameter1, parameter2)
+  }
+}
+
+cat.dance("tatataatta", "gagaagagag")
+
+
+
 
 suggestMusic(person1);
 suggestMusic(person2);
