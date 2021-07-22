@@ -5,3 +5,4 @@
 # https://frontendmasters.com/courses/javascript-coercion/tostring/
 # https://frontendmasters.com/courses/deep-javascript-v3/
 # https://frontendmasters.github.io/bootcamp/objects-and-arrays
+# https://frontendmasters.com/courses/javascript-foundations/
