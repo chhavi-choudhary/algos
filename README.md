@@ -6,3 +6,5 @@
 # https://frontendmasters.com/courses/deep-javascript-v3/
 # https://frontendmasters.github.io/bootcamp/objects-and-arrays
 # https://frontendmasters.com/courses/javascript-foundations/
+# https://frontendmasters.github.io/bootcamp/objects-and-arrays#context
+# https://frontendmasters.com/courses/javascript-foundations/this/
