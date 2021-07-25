@@ -1,9 +1,9 @@
-/* const primeNumbers = [1, 2, 3, 5, 7, 11, 13, 17];
+ const primeNumbers = [1, 2, 3, 5, 7, 11, 13, 17];
 console.log(primeNumbers.length);
 console.log(primeNumbers.join("|"));
 console.log(primeNumbers.push(18,19));
 console.log(primeNumbers)
-//Methods
+Methods
 
 const courses = [
     { teacher: "Kyle Simpson", course: "JS Function Lite" },
@@ -27,7 +27,7 @@ console.log(myFish);
 console.log(removed);
 removed=myFish.splice(1,0,'hey','really')
 console.log(myFish);
-console.log(removed); */
+console.log(removed); 
 
 const animals = ['ant', 'bison', 'camel', 'duck', 'elephant'];
 
