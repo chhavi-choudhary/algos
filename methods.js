@@ -18,6 +18,9 @@ const someOtherFunction = function(fn){
     'Beryllium'
   ]; 
   console.log(materials.map(material => material.length));
+  
+
+
   const months = ['March', 'Jan', 'Feb', 'Dec'];
 months.sort();
 console.log(months);
@@ -28,3 +31,11 @@ console.log(array4);
 let numbers = [4, 2, 5, 1, 3];
 numbers.sort((a, b) => a - b);
 console.log(numbers);
+
+const obj = {
+  foo() {
+    return 'bar';
+  }
+};
+
+console.log(obj.foo());
