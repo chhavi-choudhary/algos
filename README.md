@@ -12,3 +12,5 @@ Testing-to test your own code
 https://jasmine.github.io/
 Pass the test
 https://codepen.io/btholt/pen/QZKxRw?editors=0010
+internet fundamentals
+http://internetfundamentals.com/
