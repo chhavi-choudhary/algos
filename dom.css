@@ -1,5 +1,10 @@
-.redsquare {
+.redsquare{
     width: 100px;
     height: 100px;
     background-color: crimson;
+  }
+  .greensquare{
+    width: 100px;
+    height: 100px;
+    background-color:peru;
   }
