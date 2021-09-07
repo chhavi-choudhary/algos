@@ -16,3 +16,8 @@
   .hidden{
     display:none;
   }
+  .color-box {
+    background-color: limegreen;
+    width: 100px;
+    height: 100px;
+  }
