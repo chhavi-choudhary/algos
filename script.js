@@ -21,7 +21,20 @@ const elementsToChange = document.querySelectorAll('.js-target');
 
   const input = document.querySelector('.input-to-copy');
   const paragraph = document.querySelector('.p-to-copy-to');
-
   input.addEventListener("keyup", function() {
     paragraph.innerText  = input.value;
   });
+
+  const colorBox=document.querySelector('.color-box')
+  const colorInput=document.querySelector('.color-input')
+  colorInput.addEventListener("change",function(event){
+    colorBox.style.backgroundColor=event.target.value;
+  })
+
+  document.querySelector('.button-container').addEventListener('click', function(event) {
+    if(event.target.innerText==="BUTTON")
+    alert(`You clicked on button ${event.target.innerText}`);
+    event.currentTarget.style.backgroundColor="peru"
+  });
+
+
